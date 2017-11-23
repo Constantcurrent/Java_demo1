@@ -6,6 +6,7 @@ public class Demo1 {
 		String str=new String();
 		str="java start";//这一步可以修改
 		System.out.println(str);
+		System.out.println(str+" with no end")
 
 	}
 
