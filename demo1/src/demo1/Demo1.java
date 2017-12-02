@@ -6,7 +6,7 @@ public class Demo1 {
 		String str=new String();
 		str="java start";//
 		System.out.println(str);
-		System.out.println(str+" with no end");
+		System.out.println(str+" with dddsdscdcsscscscscso end");
 
 	}
 
